@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Exercise 1
 
-You can use the [editor on GitHub](https://github.com/jsuarez1992/firstwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### ITALICS AND BOLD
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Writing in Markdown is _not_ that hard!
 
-### Markdown
+I **will** complete these lessons!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 
-```markdown
-Syntax highlighted code block
+If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-# Header 1
-## Header 2
-### Header 3
+#### HEADERS AND SUBHEADERS
 
-- Bulleted
-- List
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-1. Numbered
-2. List
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
-**Bold** and _Italic_ and `Code` text
+Here's some words about the book _One Hundred Years..._.
 
-[Link](url) and ![Image](src)
-```
+#### LINKING IMAGES
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Search for it.](www.google.com)
 
-### Jekyll Themes
+[You're **really, really** going to want to see this.](www.dailykitten.com)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsuarez1992/firstwebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### The Latest News from [the BBC](www.bbc.com/news)
+Do you want to [see something fun][a fun place]?
 
-### Support or Contact
+Well, do I have [the website for you][another fun place]!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[a fun place]: www.zombo.com
+[another fun place]: www.stumbleupon.com
